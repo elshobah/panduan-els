@@ -2,8 +2,7 @@
 
 ## Pengantar
 
-* [Welcome to A Elshobah Co](WelcometoAElshobahCo.md)
-* [Welcome to Elshobah Digital Agency](welcome-digital-agency.md)
+* [Welcome to elshobah](welcome-digital-agency.md)
 
 ## Pengetahuan Dasar
 

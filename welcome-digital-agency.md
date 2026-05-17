@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Welcome to Elshobah Digital Agency
+# Welcome to elshobah
 
 **Elshobah** adalah perusahaan jasa digital marketing terkemuka di Indonesia — membantu pengusaha online, UMKM, dan perusahaan besar tumbuh lebih cepat secara digital. Dari website berperforma tinggi, SEO, Google Ads, hingga kelola server, semua ditangani oleh tim ahli in-house kami.
 
