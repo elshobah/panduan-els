@@ -6,6 +6,8 @@ description: Panduan menambahkan produk baru ke toko online WooCommerce di WordP
 
 Panduan ini menjelaskan cara menambahkan produk ke toko online Anda yang menggunakan **WooCommerce** di WordPress.
 
+{% embed url="https://www.youtube.com/watch?v=XwGDY0qLjcg" %}
+
 {% hint style="warning" %}
 Konten halaman ini sedang dalam penyempurnaan. Untuk bantuan segera, hubungi tim Elshobah melalui WhatsApp: [+62-812-1765-4564](https://wa.me/6281217654564)
 {% endhint %}

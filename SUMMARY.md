@@ -14,15 +14,6 @@
 * [Mengakses Email via Webmail](docs/email-webmail.md)
 * [Tutorial Kompres Gambar](docs/tutorial-kompres-gambar.md)
 
-## Tentang Elshobah Developer
-
-* [Tentang Kami](docs/tentang-kami.md)
-* [Tahap Pembuatan Website](docs/tahap-pembuatan-website.md)
-* [Kebijakan Elshobah Developer](docs/kebijakan-elshobah-developer.md)
-* [Peraturan dan Ketentuan Isi Website](docs/peraturan-ketentuan-isi-website.md)
-* [Sanksi Terhadap Pelanggaran](docs/sanksi-terhadap-pelanggaran.md)
-* [Acceptable Use Policy (AUP)](docs/acceptable-use-policy.md)
-
 ## Tutor LMS
 
 * [Membuat Kursus dengan Tutor LMS](docs/backend-course-builder.md)
@@ -31,3 +22,12 @@
 * [Menu Kursus](docs/tutor-lms-menu-kursus.md)
 * [Menu Tags](docs/tutor-lms-menu-tags.md)
 * [Quiz Builder](docs/tutor-lms-quiz-builder.md)
+
+## Tentang Elshobah Developer
+
+* [Tentang Kami](docs/tentang-kami.md)
+* [Tahap Pembuatan Website](docs/tahap-pembuatan-website.md)
+* [Kebijakan Elshobah Developer](docs/kebijakan-elshobah-developer.md)
+* [Peraturan dan Ketentuan Isi Website](docs/peraturan-ketentuan-isi-website.md)
+* [Sanksi Terhadap Pelanggaran](docs/sanksi-terhadap-pelanggaran.md)
+* [Acceptable Use Policy (AUP)](docs/acceptable-use-policy.md)

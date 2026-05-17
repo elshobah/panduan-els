@@ -6,6 +6,8 @@ description: Panduan lengkap membuat kursus online menggunakan Tutor LMS di Word
 
 Tutor LMS adalah plugin WordPress yang digunakan untuk membangun dan menjual kursus online. Panduan ini menjelaskan seluruh proses pembuatan kursus dari backend WordPress.
 
+{% embed url="https://www.youtube.com/watch?v=twmVHKiAqTk" %}
+
 **Akses via:** WordPress Admin → **Tutor LMS** → **Kursus** → **Tambah Baru**
 
 ---
@@ -101,6 +103,8 @@ Kursus
 2. Isi nama dan ringkasan topik
 3. Tambahkan pelajaran dan kuis dari tombol di bawah topik
 
+![Antarmuka penambahan topik baru di Course Builder](https://is3.cloudhost.id/elsweb/2022/07/image-5.png)
+
 ### Lesson (Pelajaran)
 
 Setiap pelajaran terdiri dari:
@@ -113,11 +117,15 @@ Setiap pelajaran terdiri dari:
 | **Video** | Sumber video eksternal atau internal + durasi |
 | **Lampiran** | Materi tambahan untuk pelajaran ini |
 
+![Struktur form lesson — judul, deskripsi, dan gambar unggulan](https://is3.cloudhost.id/elsweb/2022/07/image-6.png)
+
 **Sumber video yang didukung:**
 - Self-hosted (upload langsung)
 - YouTube
 - Vimeo
 - Embed URL lainnya
+
+![Opsi sumber video dan upload lampiran pada lesson](https://is3.cloudhost.id/elsweb/2022/07/image-7.png)
 
 ### Quiz (Kuis)
 

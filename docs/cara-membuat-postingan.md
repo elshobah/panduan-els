@@ -6,6 +6,8 @@ description: Panduan lengkap membuat dan mempublikasikan postingan/artikel di Wo
 
 Panduan ini menjelaskan cara membuat artikel atau postingan baru di WordPress secara lengkap — mulai dari menulis konten, menambahkan gambar, mengatur kategori, hingga mempublikasikan.
 
+{% embed url="https://www.youtube.com/watch?v=JiriYSqLJkU" %}
+
 ---
 
 ## Langkah-Langkah
