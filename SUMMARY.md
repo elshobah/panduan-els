@@ -26,6 +26,7 @@
 ## ElsCMS
 
 * [Cara Membuat Artikel di ElsCMS](docs/els-cms-membuat-artikel.md)
+* [Integrasi API ElsCMS untuk Developer](docs/els-cms-developer-integrasi-api.md)
 
 ## Tentang Elshobah Developer
 
