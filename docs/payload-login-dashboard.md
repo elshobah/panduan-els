@@ -52,7 +52,7 @@ Setelah login, Anda akan melihat daftar koleksi di sidebar kiri. Inilah tempat s
 | **Media** | Semua gambar dan file yang diunggah |
 | **Categories** | Kategori untuk artikel |
 | **Projects** | Portofolio atau proyek yang ditampilkan di website |
-| **Users** | Daftar akun yang bisa masuk ke admin |
+| **Users** | Daftar akun yang bisa masuk ke admin — hanya tampil untuk Admin |
 
 Di grup **Produk** terdapat dua menu terpisah:
 
@@ -95,18 +95,39 @@ Klik judul dokumen mana pun untuk membukanya.
 
 ### 7. Ubah Akun Anda Sendiri
 
-Klik ikon akun di pojok kanan bawah sidebar, lalu pilih **Account** untuk mengubah nama atau password Anda.
+Klik ikon akun di pojok kanan bawah sidebar, lalu pilih **Account** untuk mengubah nama atau password Anda. Halaman ini bisa diakses semua role, termasuk Editor.
 
 Klik **Log out** untuk keluar.
 
 ---
 
-## Hal Penting Soal Hak Akses
+## Hak Akses: Admin dan Editor
 
-{% hint style="danger" %}
-Saat ini **semua user yang bisa login memiliki akses penuh** — bisa membuat, mengubah, dan menghapus seluruh konten, termasuk menambah dan menghapus user lain. Belum ada pembedaan role seperti Editor atau Penulis.
+Setiap akun punya salah satu dari dua role:
 
-Karena itu, berikan akun admin hanya kepada orang yang memang berwenang mengelola seluruh isi website.
+| Role | Boleh melakukan |
+|------|-----------------|
+| **Editor** | Membuat dan mengedit semua konten — halaman, artikel, produk, proyek, media, kategori — serta mempublikasikan dan menariknya dari website |
+| **Admin** | Semua yang bisa dilakukan Editor, **ditambah** menghapus konten dan mengelola akun user |
+
+Perbedaan pentingnya ada di **menghapus**. Editor bisa mengubah apa saja, tapi tidak bisa menghapus dokumen apa pun — tombol hapusnya tidak akan berfungsi untuk mereka.
+
+{% hint style="info" %}
+Menu **Users** hanya muncul di sidebar untuk Admin. Kalau Anda tidak melihatnya, artinya akun Anda berrole Editor — dan itu memang semestinya.
+{% endhint %}
+
+{% hint style="success" %}
+Batasan hapus ini adalah pengaman, bukan hambatan. Editor tetap bisa menarik konten dari website lewat **Unpublish** kapan pun — dan cara itu memang lebih baik daripada menghapus, karena isinya masih bisa dikembalikan sewaktu-waktu.
+{% endhint %}
+
+### Menambah User Baru (Admin saja)
+
+Klik menu **Users**, lalu **Create New**. Isi **Name**, **Email**, dan **Password**, kemudian pilih **Roles**.
+
+Role bawaan untuk user baru adalah **Editor**. Naikkan ke Admin hanya untuk orang yang memang perlu menghapus konten atau mengelola akun lain.
+
+{% hint style="warning" %}
+Field **Roles** hanya bisa diubah oleh Admin. Editor tidak dapat menaikkan role-nya sendiri dari halaman akunnya — ini disengaja.
 {% endhint %}
 
 ---
@@ -115,6 +136,7 @@ Karena itu, berikan akun admin hanya kepada orang yang memang berwenang mengelol
 
 - [ ] Berhasil masuk ke `/admin`
 - [ ] Password bawaan sudah diganti lewat menu **Account**
+- [ ] Sudah tahu role akun Anda — Admin atau Editor
 - [ ] Sudah tahu letak **Pages**, **Posts**, **Media**, dan **Products**
 - [ ] Sudah tahu letak **Header** dan **Footer**
 

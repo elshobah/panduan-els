@@ -109,7 +109,9 @@ Ini sangat membantu setelah gambar Anda mencapai puluhan. Contoh pembagian yang 
 Untuk **mengganti file** pada dokumen Media yang sudah ada, buka dokumennya lalu klik ikon silang pada preview dan unggah file baru.
 
 {% hint style="danger" %}
-Sebelum **menghapus** dokumen Media, pastikan gambar itu tidak sedang dipakai di halaman, artikel, atau produk mana pun. Gambar yang dihapus padahal masih terpasang akan membuat gambar hilang di website.
+**Menghapus** dokumen Media hanya bisa dilakukan oleh **Admin** — lihat [Login dan Mengenal Dashboard Payload](payload-login-dashboard.md).
+
+Sebelum menghapus, pastikan gambar itu tidak sedang dipakai di halaman, artikel, atau produk mana pun. Gambar yang dihapus padahal masih terpasang akan membuat gambar hilang di website.
 
 Kalau ragu, biarkan saja. Gambar yang tidak dipakai tidak mengganggu tampilan website.
 {% endhint %}

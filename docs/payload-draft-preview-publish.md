@@ -70,6 +70,12 @@ Untuk menarik dokumen yang sudah tayang dari website, buka menu di sebelah tombo
 
 Dokumennya tidak hilang — hanya tidak lagi bisa diakses pengunjung.
 
+{% hint style="info" %}
+**Unpublish** bisa dilakukan semua role, termasuk Editor. Yang dibatasi hanya **Delete**, dan itu khusus Admin — lihat [Login dan Mengenal Dashboard Payload](payload-login-dashboard.md).
+
+Untuk hampir semua kebutuhan, Unpublish memang pilihan yang lebih tepat: hasilnya sama-sama hilang dari website, bedanya isinya masih bisa dikembalikan.
+{% endhint %}
+
 ---
 
 ## Menjadwalkan Publikasi
