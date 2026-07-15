@@ -28,6 +28,15 @@
 * [Cara Membuat Artikel di ElsCMS](docs/els-cms-membuat-artikel.md)
 * [Integrasi API ElsCMS untuk Developer](docs/els-cms-developer-integrasi-api.md)
 
+## ElsCMS with Payload
+
+* [Login dan Mengenal Dashboard Payload](docs/payload-login-dashboard.md)
+* [Mengelola Media di Payload](docs/payload-media-library.md)
+* [Draft, Preview, dan Publish di Payload](docs/payload-draft-preview-publish.md)
+* [Membuat dan Mengedit Halaman di Payload](docs/payload-edit-page.md)
+* [Membuat Artikel dan Optimasi SEO di Payload](docs/payload-artikel-seo.md)
+* [Membuat dan Mengedit Produk di Payload](docs/payload-produk.md)
+
 ## Tentang Elshobah Developer
 
 * [Tentang Kami](docs/tentang-kami.md)
