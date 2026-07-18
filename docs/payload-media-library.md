@@ -1,5 +1,5 @@
 ---
-description: Cara mengunggah dan mengelola gambar di koleksi Media Payload — alt text, focal point, folder, dan ukuran gambar otomatis.
+description: Cara mengunggah dan mengelola gambar di koleksi Media Payload — mengecilkan ukuran foto, alt text, focal point, folder, dan ukuran gambar otomatis.
 ---
 
 # Mengelola Media di Payload
@@ -91,6 +91,29 @@ Karena versi terbesar yang dibuat adalah **1920px**, mengunggah gambar dengan le
 
 ---
 
+## Mengecilkan Ukuran Foto dengan FastStone Photo Resizer
+
+Foto dari kamera HP atau kamera digital biasanya berlebar **4000px atau lebih** — jauh di atas 1920px yang dibutuhkan website. File sebesar itu berat, lama diunggah, dan memakan penyimpanan **tanpa menambah kualitas apa pun** di layar.
+
+Kecilkan dulu ke lebar maksimal **1920px** menggunakan **FastStone Photo Resizer** — aplikasi gratis (untuk penggunaan pribadi) yang bisa memproses banyak foto sekaligus.
+
+**Download:** [faststone.org/FSResizerDetail.htm](https://www.faststone.org/FSResizerDetail.htm) — khusus Windows.
+
+### Langkah-Langkah
+
+1. **Install & buka** FastStone Photo Resizer. Tab **Batch Convert** terbuka secara default.
+2. Di panel kiri, telusuri dan pilih foto yang ingin dikecilkan, lalu klik **Add** untuk memindahkannya ke daftar **Input List** di sebelah kanan.
+3. Di bagian bawah, tentukan **Output Folder** (folder tempat hasil disimpan) dan set **Output Format** ke **JPEG**.
+4. Centang **Use Advanced Options (Resize...)**, lalu klik tombol **Advanced Options**.
+5. Di tab **Resize**, centang **Resize** → pilih **In Pixels** → isi **Width: 1920** → pastikan **Preserve Aspect Ratio** tetap tercentang supaya foto tidak gepeng. Klik **OK**.
+6. Klik **Convert** — semua foto dikecilkan sekaligus.
+
+{% hint style="info" %}
+Mengecilkan **dimensi** (piksel) berbeda dengan **mengompres** (kualitas). Untuk hasil paling ringan, lakukan keduanya: kecilkan ke 1920px, lalu kompres — lihat [Tutorial Kompres Gambar](tutorial-kompres-gambar.md).
+{% endhint %}
+
+---
+
 ## Merapikan dengan Folder
 
 Koleksi Media mendukung **folder**. Klik **New Folder** untuk membuat pengelompokan, lalu pindahkan gambar ke dalamnya.
@@ -135,4 +158,4 @@ Kalau ragu, biarkan saja. Gambar yang tidak dipakai tidak mengganggu tampilan we
 
 ---
 
-*Kategori: ElsCMS with Payload · Diperbarui: 15 Juli 2026*
+*Kategori: ElsCMS with Payload · Diperbarui: 18 Juli 2026*
