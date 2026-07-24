@@ -50,6 +50,17 @@
 * [Komunitas dan Diskusi](docs/lms-admin-komunitas.md)
 * [Pengaturan dan Fitur Lanjutan](docs/lms-admin-pengaturan.md)
 
+## LMS Indonesia — Peserta Kursus
+
+* [Membuat Akun dan Masuk](docs/lms-peserta-daftar-login.md)
+* [Menjelajahi dan Mendaftar Kursus](docs/lms-peserta-jelajah-kursus.md)
+* [Menyelesaikan Pembayaran](docs/lms-peserta-pembayaran.md)
+* [Belajar di Kursus](docs/lms-peserta-belajar.md)
+* [Kuis, Nilai, dan Sertifikat](docs/lms-peserta-kuis-sertifikat.md)
+* [Komunitas dan Forum Diskusi](docs/lms-peserta-komunitas.md)
+* [Akun Saya](docs/lms-peserta-akun.md)
+* [Fitur Tambahan: Langganan, Donasi, Afiliasi](docs/lms-peserta-langganan-donasi-afiliasi.md)
+
 ## Tentang Elshobah Developer
 
 * [Tentang Kami](docs/tentang-kami.md)
