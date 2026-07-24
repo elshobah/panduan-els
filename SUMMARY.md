@@ -37,6 +37,19 @@
 * [Membuat Artikel dan Optimasi SEO di Payload](docs/payload-artikel-seo.md)
 * [Membuat dan Mengedit Produk di Payload](docs/payload-produk.md)
 
+## LMS Indonesia — Admin Tenant
+
+* [Ikhtisar dan Akses Panel Admin](docs/lms-admin-pengenalan.md)
+* [Mengelola Pengguna dan Peran](docs/lms-admin-pengguna-peran.md)
+* [Mengelola Kursus dan Pelajaran](docs/lms-admin-kursus.md)
+* [Kategori dan Paket Kursus](docs/lms-admin-kategori-bundle.md)
+* [Pesanan, Pembayaran, dan Kupon](docs/lms-admin-pesanan-pembayaran.md)
+* [Program Afiliasi](docs/lms-admin-afiliasi.md)
+* [Donasi](docs/lms-admin-donasi.md)
+* [Langganan (Subscription)](docs/lms-admin-langganan.md)
+* [Komunitas dan Diskusi](docs/lms-admin-komunitas.md)
+* [Pengaturan dan Fitur Lanjutan](docs/lms-admin-pengaturan.md)
+
 ## Tentang Elshobah Developer
 
 * [Tentang Kami](docs/tentang-kami.md)
