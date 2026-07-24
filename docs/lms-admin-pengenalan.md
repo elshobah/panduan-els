@@ -16,13 +16,13 @@ Panduan ini adalah gerbang menuju seri lengkap Admin Tenant. Setiap topik dibaha
 
 Tenant adalah "lembaga" atau "penyelenggara" Anda di dalam LMS Indonesia — lengkap dengan nama, logo, warna, kursus, dan pesertanya sendiri. Semua data Anda **terpisah total** dari tenant lain: kursus, pengguna, dan pesanan tenant lain tidak akan pernah tampil di panel Anda, dan sebaliknya.
 
-Setiap tenant memiliki alamat panel admin berpola:
+Panel admin diakses lewat satu alamat login:
 
 ```
-https://lms.sirahcommunity.com/admin/{slug-lembaga-anda}
+https://lms.elshobah.com/admin/login
 ```
 
-`{slug-lembaga-anda}` adalah nama pendek unik lembaga Anda yang ditentukan saat pendaftaran.
+Setelah berhasil masuk, sistem otomatis mengarahkan Anda ke panel lembaga (tenant) Anda. Anda tidak perlu mengingat slug lembaga — cukup buka halaman login di atas.
 
 ---
 
@@ -30,7 +30,7 @@ https://lms.sirahcommunity.com/admin/{slug-lembaga-anda}
 
 ### 1. Buka Halaman Login
 
-Buka alamat panel admin lembaga Anda di browser (lihat pola URL di atas). Anda akan diarahkan ke halaman login jika belum masuk.
+Buka [https://lms.elshobah.com/admin/login](https://lms.elshobah.com/admin/login) di browser.
 
 ![Halaman login panel Admin Tenant](https://GANTI-DENGAN-SCREENSHOT)
 
